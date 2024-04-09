@@ -1,0 +1,35 @@
+
+.header{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDb9K1_ChYQUI6L3c15DOD3g0MwutL4dAFyXa37_ldGA&s");
+}
+.nav{
+    display: flex;
+}
+button{
+    border: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.bt{
+    margin-left: 900px;
+    background:none;
+    font-size: smaller;
+}
+.cart{
+    background-color: red;
+    width: 35px;
+    height: 30px;
+    font-size: smaller;
+    margin-top: 25px;
+}
+.img{
+    margin-left: 200px;
+}
+.h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    padding-bottom: 70px;
+}
